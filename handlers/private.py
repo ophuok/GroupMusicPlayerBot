@@ -22,7 +22,7 @@ Add me to your group and play music freely!**
                         "✨ Owner ", url="https://t.me/unstoppable_Remix")
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "⚙️ Push Me To Your Group ⚙️", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
                     )]
             ]
         ),
