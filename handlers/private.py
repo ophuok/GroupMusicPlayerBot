@@ -19,14 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Infinity-Bots/GroupMusicPlayerBot")
-                  ],[
-                    InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/InfinityBOTs_Support"
-                    ),
-                    InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs"
-                    )
+                        "✨ Owner ", url="https://t.me/unstoppable_Remix")
                 ],[ 
                     InlineKeyboardButton(
                         "➕ Add To Your Group ➕", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
