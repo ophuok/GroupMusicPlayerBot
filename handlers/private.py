@@ -22,7 +22,7 @@ Add me to your group and play music freely!**
                         "✨ 𝗦𝗼𝗺𝗲𝗼𝗻𝗲'𝘀 𝗖𝗵𝗼𝗺𝘂 𝗛𝗲𝗿𝗲 ✨", url="https://t.me/unstoppable_Remix")
                 ],[ 
                     InlineKeyboardButton(
-                        "⚙️ 𝗣𝘂𝘀𝗵 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ⚙️", url="https://t.me/JEGroupMusicPlayerBot?startgroup=true"
+                        "⚙️ 𝗣𝘂𝘀𝗵 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ⚙️", url="https://t.me/CuteMonaBot?startgroup=true"
                     )]
             ]
         ),
@@ -36,7 +36,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Infinity_BOTs")
+                        "Owner🚶", url="https://t.me/Unstoppable_Remix")
                 ]
             ]
         )
