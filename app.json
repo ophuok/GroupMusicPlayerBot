@@ -1,8 +1,8 @@
 {
   "name": "Music Bot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/ophuok/GroupMusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
