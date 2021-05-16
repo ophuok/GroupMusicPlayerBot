@@ -11,9 +11,11 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hello ji, I'm {bn} 🎵
 
-I can play music in your group's voice call.Developed by [❀͜͡𝄟 Cute Baby](https://t.me/Unstoppable_Remix).
+🔸I can play music in your group's voice call.
 
-Add me to your group and play music freely!**
+🔸Developed by [❀͜͡𝄟 Cute Baby](https://t.me/Unstoppable_Remix).
+
+🔸Add me to your group and play music freely!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
