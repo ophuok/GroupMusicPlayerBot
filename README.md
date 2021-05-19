@@ -1,9 +1,9 @@
-<h2 align="centre">Telegram Group Music Player Bot 🎵</h2>
+<h2 align="centre">Telegram Group Music Player Bot ✨</h2>
 
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+  <img src="https://telegra.ph/file/46deca8148444e0eede69.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
