@@ -11,15 +11,19 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Namaste, It's {bn} 
 
-🔸I play music in group's voice call.
-🔸You Can add me to your group Freely!
-🔸Developed by [❀͜͡𝄟 Cute Baby](https://t.me/Unstoppable_Remix).
+✵ I can play music in your groups voice call. You can add me in your group Freely .
+✵ Here are my some extra commands : 
+☞︎︎︎ /play «song name»
+☞︎︎︎ /song «song name»
+☞︎︎︎ /search «query»
+☞︎︎︎ other commands you can get in assistant by sending /help.
+☞︎︎︎ Developed by [❀͜͡𝄟 Cute Baby](https://t.me/Unstoppable_Remix).
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "✨ 𝗦𝗼𝗺𝗲𝗼𝗻𝗲'𝘀 𝗖𝗵𝗼𝗺𝘂 𝗛𝗲𝗿𝗲 ✨", url="https://t.me/unstoppable_Remix")
+                        "✨ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽 𝗛𝗲𝗿𝗲 ✨", url="https://t.me/legends_are_here")
                 ],[ 
                     InlineKeyboardButton(
                         "⚙️ 𝗣𝘂𝘀𝗵 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ⚙️", url="https://t.me/CuteMonaBot?startgroup=true"
