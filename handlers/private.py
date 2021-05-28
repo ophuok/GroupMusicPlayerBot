@@ -23,7 +23,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗚𝗿𝗼𝘂𝗽 𝗛𝗲𝗿𝗲 ✨", url="https://t.me/legends_are_here")
+                        "✨ 𝗠𝘆 𝗗𝗲𝘃 𝗛𝗲𝗿𝗲 ✨", url="https://t.me/unstoppable_remix")
                 ],[ 
                     InlineKeyboardButton(
                         "⚙️ 𝗣𝘂𝘀𝗵 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 ⚙️", url="https://t.me/CuteMonaBot?startgroup=true"
